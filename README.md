@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TimotreeTu
+- 👋 Hi, I’m Timothy!
 - 👀 I’m interested in Computer Science, Gaming, Photography, and Nature
 - 🌱 I’m currently teaching myself how to code a Discord bot for personal interest, and how to use Unity to create a game for one of my classes
 - 💞️ I’m looking to collaborate on any projects, so I can learn more.
